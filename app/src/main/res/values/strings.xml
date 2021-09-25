@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinDaggerHilt</string>
+    <string name="hello_man">Hello Man</string>
+</resources>
